@@ -1,0 +1,12 @@
+test1			0
+test2			0
+test1			0
+test2			0
+directory structure	0
+file name		0
+compiles		0
+==============================
+Final	20
+
+Inconsistent indentation
+Checking for lower case, upper case, etc. in checkAndRespond() is unncessary, which can be determined by looking at the main().

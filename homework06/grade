@@ -1,0 +1,17 @@
+subs 1			0
+cae 1			0
+rot 1			0
+rk 1			0
+vig 1			0
+subs 2			0
+cae 2			0
+rot 2			0
+rk 2			0
+vig 2			0
+directory structure	0
+file name		0
+compiles		0
+==============================
+Final	39
+
+Setting cipher_alpha to "a~z" is redudant in KCipher
